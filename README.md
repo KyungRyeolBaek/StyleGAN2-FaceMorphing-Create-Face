@@ -1,6 +1,8 @@
 # StyleGAN2-FaceMorphing-Create-Face
 StyleGAN2와 Face-Morphing을 이용한 가상 얼굴 생성 프로젝트입니다.
 
+프로젝트 진행 기간 : 2021-10-25 ~ 2021-11-18
+
 기업 협업 프로젝트 입니다.
 
 스타일봇 기업의 요구 사항에 맞춰 프로젝트를 진행하였습니다.
